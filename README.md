@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rm3390&label=Profile%20views&color=0e75b6&style=flat" alt="rm3390" /> </p>
 
-- 🔭 I’m currently working on **Blog Project**
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React,JavaScript,Figma**
