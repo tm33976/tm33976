@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tm33976&label=Profile%20views&color=0e75b6&style=flat" alt="tm33976" /> </p>
 
 
--  🧑‍💻
+
 - 💬 Ask me about **React,JavaScript,Python,Node js**
 
 - 📫 How to reach me **tm3390782@gmail.com**
